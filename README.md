@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Saudi Arabia
 * 🖥️  See my portfolio at [MyProtfolio](http://ihussamalshayeb.github.io)
 * ✉️  You can contact me at [hussamalshayeb01@gmail.com](mailto:hussamalshayeb01@gmail.com)
-* 🚀  I'm currently working on [Web site](http://github.com/iHussamAlshayeb/DTG_Project)
+* 🚀  I'm currently working on [Web site](https://dtgproject.herokuapp.com)
 * 🧠  I'm learning Web Scraping
 * 🤝  I'm open to collaborating on Intersting projects
 * ⚡  Toy Story Lover
