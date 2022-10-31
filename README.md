@@ -8,7 +8,7 @@ Web Developer
 * 🖥️  See my portfolio at [MyProtfolio](http://ihussamalshayeb.github.io)
 * ✉️  You can contact me at [hussamalshayeb01@gmail.com](mailto:hussamalshayeb01@gmail.com)
 * 🚀  I'm currently working on [Data Analysis Nanodegree](https://github.com/iHussamAlshayeb/Data_Analysis_Udacity)
-* 🧠  I'm learning Web Scraping
+* 🧠  I'm learning Data Analysis
 * 🤝  I'm open to collaborating on Intersting projects
 * ⚡  Toy Story Lover
 
